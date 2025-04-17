@@ -11,8 +11,9 @@ An automated pipeline that retrieves task descriptions from Google Sheets, gener
 - 🎨 Generate images (PNG, JPG), audio (MP3), and text assets using OpenAI  
 - ☁️ Upload assets directly to Google Drive  
 - 🔔 Get notified via Slack and Email upon task completion or failure  
+- 🧾 Log task status and errors in a local SQLite database  
 - 📊 Daily report generation for processed tasks  
-- 🔁 Optional scheduled automation (run at specific intervals)  
+- 🔁 Optional scheduled automation (run at specific intervals) 
 
 ---
 
