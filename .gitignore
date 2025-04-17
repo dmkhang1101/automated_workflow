@@ -1,0 +1,5 @@
+.env
+*.db
+*.png
+service_account.json
+*.pyc
